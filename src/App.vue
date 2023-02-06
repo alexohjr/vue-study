@@ -8,9 +8,12 @@
           <li><RouterLink to="/dataBind">DataBind</RouterLink></li>
           <li><RouterLink to="/formData">FormData</RouterLink></li>
           <li><RouterLink to="/method">Method</RouterLink></li>
+          <li><RouterLink to="/ifElseArray">IfElse</RouterLink></li>
+          <li><RouterLink to="/googleChart">GoogleChart</RouterLink></li>
+          <li><RouterLink to="/dataWatcher">DataWatcher</RouterLink></li>
       </ul>
-      <RouterView></RouterView>
     </div>
+    <RouterView></RouterView>
 </template>
 
 <style>
